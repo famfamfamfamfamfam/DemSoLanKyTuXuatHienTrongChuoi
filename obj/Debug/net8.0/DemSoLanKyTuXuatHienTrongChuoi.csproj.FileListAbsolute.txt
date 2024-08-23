@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\BaiTap\DemSoLanKyTuXuatHienTrongChuoi\bin\Debug\net8.0\DemSoLanKyTuXuatHienTrongChuoi.exe
+C:\Users\pc\Desktop\Module1\BaiTap\DemSoLanKyTuXuatHienTrongChuoi\bin\Debug\net8.0\DemSoLanKyTuXuatHienTrongChuoi.deps.json
+C:\Users\pc\Desktop\Module1\BaiTap\DemSoLanKyTuXuatHienTrongChuoi\bin\Debug\net8.0\DemSoLanKyTuXuatHienTrongChuoi.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\BaiTap\DemSoLanKyTuXuatHienTrongChuoi\bin\Debug\net8.0\DemSoLanKyTuXuatHienTrongChuoi.dll
+C:\Users\pc\Desktop\Module1\BaiTap\DemSoLanKyTuXuatHienTrongChuoi\bin\Debug\net8.0\DemSoLanKyTuXuatHienTrongChuoi.pdb
+C:\Users\pc\Desktop\Module1\BaiTap\DemSoLanKyTuXuatHienTrongChuoi\obj\Debug\net8.0\DemSoLanKyTuXuatHienTrongChuoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\BaiTap\DemSoLanKyTuXuatHienTrongChuoi\obj\Debug\net8.0\DemSoLanKyTuXuatHienTrongChuoi.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\BaiTap\DemSoLanKyTuXuatHienTrongChuoi\obj\Debug\net8.0\DemSoLanKyTuXuatHienTrongChuoi.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\BaiTap\DemSoLanKyTuXuatHienTrongChuoi\obj\Debug\net8.0\DemSoLanKyTuXuatHienTrongChuoi.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\BaiTap\DemSoLanKyTuXuatHienTrongChuoi\obj\Debug\net8.0\DemSoLanKyTuXuatHienTrongChuoi.sourcelink.json
+C:\Users\pc\Desktop\Module1\BaiTap\DemSoLanKyTuXuatHienTrongChuoi\obj\Debug\net8.0\DemSoLanKyTuXuatHienTrongChuoi.dll
+C:\Users\pc\Desktop\Module1\BaiTap\DemSoLanKyTuXuatHienTrongChuoi\obj\Debug\net8.0\refint\DemSoLanKyTuXuatHienTrongChuoi.dll
+C:\Users\pc\Desktop\Module1\BaiTap\DemSoLanKyTuXuatHienTrongChuoi\obj\Debug\net8.0\DemSoLanKyTuXuatHienTrongChuoi.pdb
+C:\Users\pc\Desktop\Module1\BaiTap\DemSoLanKyTuXuatHienTrongChuoi\obj\Debug\net8.0\DemSoLanKyTuXuatHienTrongChuoi.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\BaiTap\DemSoLanKyTuXuatHienTrongChuoi\obj\Debug\net8.0\ref\DemSoLanKyTuXuatHienTrongChuoi.dll
